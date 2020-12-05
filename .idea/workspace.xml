@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb91e2ec-634f-4658-9590-6cae51ca4057" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/GenerateRoles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/Roles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/symfony-console-test-project-enviorment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony-console-test-project-enviorment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony-console-test-project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/symfony-console-test-project/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,11 +14,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/symfony-console-test-project/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/composer" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/symfony-console-test-project/vendor/symfony/polyfill-ctype" />
+    </include_path>
   </component>
   <component name="ProjectId" id="1lFiwjaeGyCTgSHPl93T5Bdnv1t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,12 +53,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/symfony-console-test-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/symfony-console-test-project/app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/symfony-console-test-project/app" />
       <recent name="$PROJECT_DIR$/symfony-console-test-project" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -43,7 +72,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607199481578</updated>
-      <workItem from="1607199482809" duration="1429000" />
+      <workItem from="1607199482809" duration="1681000" />
+      <workItem from="1607201175326" duration="2413000" />
     </task>
     <servers />
   </component>
