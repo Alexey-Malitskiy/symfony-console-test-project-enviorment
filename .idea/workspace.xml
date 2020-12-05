@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb91e2ec-634f-4658-9590-6cae51ca4057" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/GenerateRoles.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/Roles.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/symfony-console-test-project-enviorment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/symfony-console-test-project-enviorment.iml" afterDir="false" />
+    <list default="true" id="eb91e2ec-634f-4658-9590-6cae51ca4057" name="Default Changelist" comment="created interface GenerateRoles and class Roles">
+      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/Basic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/UserRoles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/symfony-console-test-project/app/UserRolesCommand.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony-console-test-project/app/Roles.php" beforeDir="false" afterPath="$PROJECT_DIR$/symfony-console-test-project/app/Roles.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/symfony-console-test-project/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/symfony-console-test-project/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +73,23 @@
       <option name="presentableId" value="Default" />
       <updated>1607199481578</updated>
       <workItem from="1607199482809" duration="1681000" />
-      <workItem from="1607201175326" duration="2413000" />
+      <workItem from="1607201175326" duration="4803000" />
     </task>
+    <task id="LOCAL-00001" summary="created interface GenerateRoles and class Roles">
+      <created>1607203719744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607203719744</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created interface GenerateRoles and class Roles" />
+    <option name="LAST_COMMIT_MESSAGE" value="created interface GenerateRoles and class Roles" />
   </component>
 </project>

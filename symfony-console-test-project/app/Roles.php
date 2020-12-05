@@ -12,6 +12,7 @@ class Roles implements GenerateRoles
 
     /**
      * @param string $user
+     * @return array
      */
     public function getRoles(string $user) : array
     {
